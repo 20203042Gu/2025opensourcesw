@@ -1,3 +1,1 @@
-#2025 OpenSource Software(09.18)
-
-second commit
+#2025 OpenSource Software(09.18)t
