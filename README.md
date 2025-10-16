@@ -1,2 +1,1 @@
-#2025 OpenSource Software(09.18)
-#3_way_MERGE(10.02)
+# 오픈소스 소프트웨어 강의 실습
